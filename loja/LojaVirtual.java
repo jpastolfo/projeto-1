@@ -1,4 +1,4 @@
-package com.ada.loja;
+package loja;
 
 public class LojaVirtual {
 
